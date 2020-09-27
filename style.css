@@ -1,0 +1,20 @@
+h5{
+    color: green;
+}
+h4{
+    color: red;
+}
+
+.preco{
+    font-weight: bold;
+}
+
+.pizza{
+    background-color:rgb(255, 250, 183);
+    color: green;
+    padding: 5px;
+}
+body{
+    background-color: beige;
+}
+
